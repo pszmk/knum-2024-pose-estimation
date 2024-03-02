@@ -1,0 +1,4 @@
+data/
+pose-estimation-venv/
+
+!data/keypoints_names.pkl
